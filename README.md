@@ -13,3 +13,17 @@ Este projeto é uma aplicação web simples de mobilidade urbana que demonstra f
 - formulário de cadastro com as informações do usuário usuando a API CEP
 - Se o usuário não estiver logado não conseguirá acessar o mapa e nem escolher um plano.
 
+
+
+
+## Site Hospedado
+
+https://beelmedeiros.github.io/projetomapa/
+
+## Colaboradores
+
+- Davi
+- Diogo
+- Izabel  
+- Raphael
+- Vitoria
